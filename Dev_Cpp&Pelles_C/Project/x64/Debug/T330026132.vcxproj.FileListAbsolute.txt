@@ -1,2 +1,0 @@
-D:\Codes\C programme\T330026132\x64\Debug\T330026132.exe
-D:\Codes\C programme\Dev_Cpp&Pelles_C\T330026132\x64\Debug\T330026132.exe
