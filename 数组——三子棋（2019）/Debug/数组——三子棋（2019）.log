@@ -1,0 +1,10 @@
+﻿  game.cpp
+D:\Codes\数组——三子棋（2019）\game.cpp(41,1): error C2059: 语法错误:“}”
+  InitBoard.cpp
+D:\Codes\数组——三子棋（2019）\InitBoard.cpp(10,21): error C2440: “=”: 无法从“const char [2]”转换为“char”
+D:\Codes\数组——三子棋（2019）\InitBoard.cpp(10,18): message : 没有使该转换得以执行的上下文
+D:\Codes\数组——三子棋（2019）\InitBoard.cpp(20,10): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\Codes\数组——三子棋（2019）\InitBoard.cpp(20,10): message : 占位符和其参数预计 3 可变参数，但提供的却是 0 参数
+D:\Codes\数组——三子棋（2019）\InitBoard.cpp(20,10): message : 缺失的可变参数 1 为格式字符串“%c”所需
+  正在运行 C/C++ 代码分析...
+  正在生成代码...

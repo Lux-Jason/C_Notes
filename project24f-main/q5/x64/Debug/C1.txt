@@ -1,0 +1,9 @@
+Room: C1
+Timeslot 9:00-9:50: Available
+Timeslot 10:00-10:50: Available
+Timeslot 11:00-11:50: Booked by alice
+Timeslot 12:00-12:50: Available
+Timeslot 13:00-13:50: Booked by tony
+Timeslot 14:00-14:50: Available
+Timeslot 15:00-15:50: Available
+Timeslot 16:00-16:50: Available

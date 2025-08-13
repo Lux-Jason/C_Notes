@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Codes\\C_programme\\project24f-main\\q5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\weixin\\WeChat Files\\wxid_8808158081712\\FileStorage\\File\\2024-12\\Assignment5(2).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC58424-F31C-4A6F-BA5D-856A16D42DC2}|q5.vcxproj|D:\\Codes\\C_programme\\project24f-main\\codes\\account.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC58424-F31C-4A6F-BA5D-856A16D42DC2}|q5.vcxproj|D:\\Codes\\C_programme\\project24f-main\\codes\\q1_4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC58424-F31C-4A6F-BA5D-856A16D42DC2}|q5.vcxproj|D:\\Codes\\C_programme\\project24f-main\\codes\\q5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Assignment5(2).c",
+              "DocumentMoniker": "D:\\weixin\\WeChat Files\\wxid_8808158081712\\FileStorage\\File\\2024-12\\Assignment5(2).c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\weixin\\WeChat Files\\wxid_8808158081712\\FileStorage\\File\\2024-12\\Assignment5(2).c",
+              "ToolTip": "D:\\weixin\\WeChat Files\\wxid_8808158081712\\FileStorage\\File\\2024-12\\Assignment5(2).c [\u53EA\u8BFB]",
+              "RelativeToolTip": "..\\..\\..\\..\\weixin\\WeChat Files\\wxid_8808158081712\\FileStorage\\File\\2024-12\\Assignment5(2).c [\u53EA\u8BFB]",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAowKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-20T13:33:39.452Z",
+              "EditorCaption": " [\u53EA\u8BFB]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "account.txt",
+              "DocumentMoniker": "D:\\Codes\\C_programme\\project24f-main\\codes\\account.txt",
+              "RelativeDocumentMoniker": "..\\codes\\account.txt",
+              "ToolTip": "D:\\Codes\\C_programme\\project24f-main\\codes\\account.txt",
+              "RelativeToolTip": "..\\codes\\account.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-20T13:17:28.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "q1_4.c",
+              "DocumentMoniker": "D:\\Codes\\C_programme\\project24f-main\\codes\\q1_4.c",
+              "RelativeDocumentMoniker": "..\\codes\\q1_4.c",
+              "ToolTip": "D:\\Codes\\C_programme\\project24f-main\\codes\\q1_4.c",
+              "RelativeToolTip": "..\\codes\\q1_4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-20T13:13:32.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "q5.c",
+              "DocumentMoniker": "D:\\Codes\\C_programme\\project24f-main\\codes\\q5.c",
+              "RelativeDocumentMoniker": "..\\codes\\q5.c",
+              "ToolTip": "D:\\Codes\\C_programme\\project24f-main\\codes\\q5.c",
+              "RelativeToolTip": "..\\codes\\q5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-20T13:00:58.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

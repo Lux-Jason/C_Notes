@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Codes\\C_programme\\Cryptology\\DES\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\E_textbooks_And_Lecture_Notes\\Data_Communications_Networking\\Assignment2\\Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\E_textbooks_And_Lecture_Notes\\Data_Communications_Networking\\Assignment2\\Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10980A55-5E93-4AD1-A98F-258410CA5BA7}|DES.vcxproj|D:\\Codes\\C_programme\\Cryptology\\DES\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10980A55-5E93-4AD1-A98F-258410CA5BA7}|DES.vcxproj|solutionrelative:\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 113,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.cpp",
+              "DocumentMoniker": "D:\\E_textbooks_And_Lecture_Notes\\Data_Communications_Networking\\Assignment2\\Server.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\E_textbooks_And_Lecture_Notes\\Data_Communications_Networking\\Assignment2\\Server.cpp",
+              "ToolTip": "D:\\E_textbooks_And_Lecture_Notes\\Data_Communications_Networking\\Assignment2\\Server.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\E_textbooks_And_Lecture_Notes\\Data_Communications_Networking\\Assignment2\\Server.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T01:24:28.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cpp",
+              "DocumentMoniker": "D:\\E_textbooks_And_Lecture_Notes\\Data_Communications_Networking\\Assignment2\\Client.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\E_textbooks_And_Lecture_Notes\\Data_Communications_Networking\\Assignment2\\Client.cpp",
+              "ToolTip": "D:\\E_textbooks_And_Lecture_Notes\\Data_Communications_Networking\\Assignment2\\Client.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\E_textbooks_And_Lecture_Notes\\Data_Communications_Networking\\Assignment2\\Client.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T01:24:28.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "D:\\Codes\\C_programme\\Cryptology\\DES\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "\u6E90.cpp",
+              "ToolTip": "D:\\Codes\\C_programme\\Cryptology\\DES\\\u6E90.cpp",
+              "RelativeToolTip": "\u6E90.cpp",
+              "ViewState": "AgIAAJACAAAAAAAAAAAAAKcCAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-15T13:16:01.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

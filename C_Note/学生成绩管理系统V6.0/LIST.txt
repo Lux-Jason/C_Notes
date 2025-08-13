@@ -1,0 +1,38 @@
+------------------------------------
+
+ID:103
+Name:dengxiaoping
+Ranking:3
+Chinese:55.0
+Maths:56.0
+English:57.0
+Total:168.0
+------------------------------------
+
+ID:101
+Name:li zhanshu
+Ranking:2
+Chinese:88.0
+Maths:85.0
+English:65.0
+Total:238.0
+------------------------------------
+
+ID:098
+Name:wang qishan
+Ranking:4
+Chinese:22.0
+Maths:12.0
+English:2.0
+Total:36.0
+------------------------------------
+
+ID:100
+Name:xi jinping
+Ranking:1
+Chinese:98.0
+Maths:99.0
+English:100.0
+Total:297.0
+------------------------------------
+

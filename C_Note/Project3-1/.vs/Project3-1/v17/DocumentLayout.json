@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Codes\\C_programme\\C_Note\\Project3-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57816DA3-AB3C-4793-930B-A9C7267C91AF}|Project3-1.vcxproj|D:\\Codes\\C_programme\\C_Note\\Project3-1\\\u51FD\u6570\u9012\u5F52.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57816DA3-AB3C-4793-930B-A9C7267C91AF}|Project3-1.vcxproj|solutionrelative:\u51FD\u6570\u9012\u5F52.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57816DA3-AB3C-4793-930B-A9C7267C91AF}|Project3-1.vcxproj|D:\\Codes\\C_programme\\C_Note\\Project3-1\\\u51FD\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57816DA3-AB3C-4793-930B-A9C7267C91AF}|Project3-1.vcxproj|solutionrelative:\u51FD\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57816DA3-AB3C-4793-930B-A9C7267C91AF}|Project3-1.vcxproj|D:\\Codes\\C_programme\\C_Note\\Project3-1\\ADD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57816DA3-AB3C-4793-930B-A9C7267C91AF}|Project3-1.vcxproj|solutionrelative:ADD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ADD.cpp",
+              "DocumentMoniker": "D:\\Codes\\C_programme\\C_Note\\Project3-1\\ADD.cpp",
+              "RelativeDocumentMoniker": "ADD.cpp",
+              "ToolTip": "D:\\Codes\\C_programme\\C_Note\\Project3-1\\ADD.cpp",
+              "RelativeToolTip": "ADD.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-20T06:17:00.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u51FD\u6570\u9012\u5F52.cpp",
+              "DocumentMoniker": "D:\\Codes\\C_programme\\C_Note\\Project3-1\\\u51FD\u6570\u9012\u5F52.cpp",
+              "RelativeDocumentMoniker": "\u51FD\u6570\u9012\u5F52.cpp",
+              "ToolTip": "D:\\Codes\\C_programme\\C_Note\\Project3-1\\\u51FD\u6570\u9012\u5F52.cpp",
+              "RelativeToolTip": "\u51FD\u6570\u9012\u5F52.cpp",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-20T06:16:55.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u51FD\u6570.cpp",
+              "DocumentMoniker": "D:\\Codes\\C_programme\\C_Note\\Project3-1\\\u51FD\u6570.cpp",
+              "RelativeDocumentMoniker": "\u51FD\u6570.cpp",
+              "ToolTip": "D:\\Codes\\C_programme\\C_Note\\Project3-1\\\u51FD\u6570.cpp",
+              "RelativeToolTip": "\u51FD\u6570.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-20T06:16:56.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

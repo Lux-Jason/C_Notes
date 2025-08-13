@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "链表", "链表.vcxproj", "{896C5CB9-1709-41D8-A970-6117D640B564}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{896C5CB9-1709-41D8-A970-6117D640B564}.Debug|x64.ActiveCfg = Debug|x64
+		{896C5CB9-1709-41D8-A970-6117D640B564}.Debug|x64.Build.0 = Debug|x64
+		{896C5CB9-1709-41D8-A970-6117D640B564}.Debug|x86.ActiveCfg = Debug|Win32
+		{896C5CB9-1709-41D8-A970-6117D640B564}.Debug|x86.Build.0 = Debug|Win32
+		{896C5CB9-1709-41D8-A970-6117D640B564}.Release|x64.ActiveCfg = Release|x64
+		{896C5CB9-1709-41D8-A970-6117D640B564}.Release|x64.Build.0 = Release|x64
+		{896C5CB9-1709-41D8-A970-6117D640B564}.Release|x86.ActiveCfg = Release|Win32
+		{896C5CB9-1709-41D8-A970-6117D640B564}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7F59E69-9261-4853-BF3C-8CB284947E64}
+	EndGlobalSection
+EndGlobal

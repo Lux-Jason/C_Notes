@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Codes\\C_programme\\C_Note\\\u626B\u96F7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD32F386-FC31-40F0-92E9-253753060158}|\u626B\u96F7.vcxproj|D:\\Codes\\C_programme\\C_Note\\\u626B\u96F7\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD32F386-FC31-40F0-92E9-253753060158}|\u626B\u96F7.vcxproj|solutionrelative:game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD32F386-FC31-40F0-92E9-253753060158}|\u626B\u96F7.vcxproj|D:\\Codes\\C_programme\\C_Note\\\u626B\u96F7\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD32F386-FC31-40F0-92E9-253753060158}|\u626B\u96F7.vcxproj|solutionrelative:test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD32F386-FC31-40F0-92E9-253753060158}|\u626B\u96F7.vcxproj|D:\\Codes\\C_programme\\C_Note\\\u626B\u96F7\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD32F386-FC31-40F0-92E9-253753060158}|\u626B\u96F7.vcxproj|solutionrelative:game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 173,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game.h",
+              "DocumentMoniker": "D:\\Codes\\C_programme\\C_Note\\\u626B\u96F7\\game.h",
+              "RelativeDocumentMoniker": "game.h",
+              "ToolTip": "D:\\Codes\\C_programme\\C_Note\\\u626B\u96F7\\game.h",
+              "RelativeToolTip": "game.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-20T06:24:20.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\Codes\\C_programme\\C_Note\\\u626B\u96F7\\test.cpp",
+              "RelativeDocumentMoniker": "test.cpp",
+              "ToolTip": "D:\\Codes\\C_programme\\C_Note\\\u626B\u96F7\\test.cpp",
+              "RelativeToolTip": "test.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-20T06:24:21.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game.cpp",
+              "DocumentMoniker": "D:\\Codes\\C_programme\\C_Note\\\u626B\u96F7\\game.cpp",
+              "RelativeDocumentMoniker": "game.cpp",
+              "ToolTip": "D:\\Codes\\C_programme\\C_Note\\\u626B\u96F7\\game.cpp",
+              "RelativeToolTip": "game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-20T06:24:21.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

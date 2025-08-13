@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Codes\\C_programme\\project24f-main\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50302BCC-DE7F-477E-91BA-45D5420A761F}|Project1.vcxproj|D:\\Codes\\C_programme\\project24f-main\\Project1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50302BCC-DE7F-477E-91BA-45D5420A761F}|Project1.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50302BCC-DE7F-477E-91BA-45D5420A761F}|Project1.vcxproj|D:\\Codes\\C_programme\\project24f-main\\codes\\account.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50302BCC-DE7F-477E-91BA-45D5420A761F}|Project1.vcxproj|D:\\Codes\\C_programme\\project24f-main\\codes\\classroom_info.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50302BCC-DE7F-477E-91BA-45D5420A761F}|Project1.vcxproj|D:\\Codes\\C_programme\\project24f-main\\codes\\C1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "classroom_info.txt",
+              "DocumentMoniker": "D:\\Codes\\C_programme\\project24f-main\\codes\\classroom_info.txt",
+              "RelativeDocumentMoniker": "..\\codes\\classroom_info.txt",
+              "ToolTip": "D:\\Codes\\C_programme\\project24f-main\\codes\\classroom_info.txt",
+              "RelativeToolTip": "..\\codes\\classroom_info.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-20T14:01:16.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "C1.txt",
+              "DocumentMoniker": "D:\\Codes\\C_programme\\project24f-main\\codes\\C1.txt",
+              "RelativeDocumentMoniker": "..\\codes\\C1.txt",
+              "ToolTip": "D:\\Codes\\C_programme\\project24f-main\\codes\\C1.txt",
+              "RelativeToolTip": "..\\codes\\C1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-20T14:01:15.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "account.txt",
+              "DocumentMoniker": "D:\\Codes\\C_programme\\project24f-main\\codes\\account.txt",
+              "RelativeDocumentMoniker": "..\\codes\\account.txt",
+              "ToolTip": "D:\\Codes\\C_programme\\project24f-main\\codes\\account.txt",
+              "RelativeToolTip": "..\\codes\\account.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-20T14:01:13.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\Codes\\C_programme\\project24f-main\\Project1\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "D:\\Codes\\C_programme\\project24f-main\\Project1\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwJgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-20T13:59:56.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

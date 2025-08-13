@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\Codes\C programme\Cryptology\DES\源.cpp(552,12): warning C4101: “m”: 未引用的局部变量
+D:\Codes\C programme\Cryptology\DES\源.cpp(551,18): warning C4101: “b”: 未引用的局部变量
+  DES.vcxproj -> D:\Codes\C programme\Cryptology\DES\x64\Debug\DES.exe

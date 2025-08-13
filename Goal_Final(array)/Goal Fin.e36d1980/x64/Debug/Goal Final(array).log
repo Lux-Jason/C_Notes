@@ -1,0 +1,19 @@
+﻿  Course.c
+  Final.c
+D:\Codes\C_programme\Goal_Final(array)\Course.c(92,20): warning C4133: “函数”: 从“Course [10]”到“const char *”的类型不兼容
+D:\Codes\C_programme\Goal_Final(array)\Course.c(108,3): warning C4013: “gets”未定义；假设外部返回 int
+D:\Codes\C_programme\Goal_Final(array)\Course.c(92,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Codes\C_programme\Goal_Final(array)\Course.c(109,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Codes\C_programme\Goal_Final(array)\Course.c(124,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Codes\C_programme\Goal_Final(array)\Course.c(241,19): warning C4133: “函数”: 从“Course [10]”到“const char *”的类型不兼容
+D:\Codes\C_programme\Goal_Final(array)\Course.c(241,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Codes\C_programme\Goal_Final(array)\Final.c(35,54): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Grade.c
+D:\Codes\C_programme\Goal_Final(array)\Grade.c(11,20): warning C4133: “函数”: 从“Course [10]”到“const char *”的类型不兼容
+D:\Codes\C_programme\Goal_Final(array)\Grade.c(11,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Codes\C_programme\Goal_Final(array)\Grade.c(181,8): warning C4477: “scanf”: 格式字符串“%c”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+  main.c
+D:\Codes\C_programme\Goal_Final(array)\main.c(98,8): warning C4101: “pf”: 未引用的局部变量
+  Menu.c
+  正在生成代码...
+  Goal Final(array).vcxproj -> D:\Codes\C_programme\Goal_Final(array)\x64\Debug\Goal Final(array).exe

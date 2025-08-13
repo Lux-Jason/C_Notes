@@ -1,0 +1,3 @@
+﻿  Final.c
+D:\Codes\C programme\Goal Final(array)\Final.c(35,54): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Goal Final(array).vcxproj -> D:\Codes\C programme\Goal Final(array)\x64\Debug\Goal Final(array).exe

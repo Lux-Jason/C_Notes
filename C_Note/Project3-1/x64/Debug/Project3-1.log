@@ -1,0 +1,6 @@
+﻿  ADD.cpp
+D:\Codes\C programme\Project3-1\ADD.cpp(1,1): warning C4828: 文件包含在偏移 0x4a 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  函数.cpp
+  函数递归.cpp
+  正在生成代码...
+  Project3-1.vcxproj -> D:\Codes\C programme\Project3-1\x64\Debug\Project3-1.exe
