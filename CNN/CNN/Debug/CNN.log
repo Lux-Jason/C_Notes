@@ -1,0 +1,36 @@
+﻿  main.cpp
+D:\Codes\eigen-3.4.0\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\Codes\eigen-3.4.0\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\Codes\eigen-3.4.0\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\Codes\C_programme\DeepLearningC-master\CNN\CNN\main.cpp(12,5): error C2065: “Mat_File”: 未声明的标识符
+D:\Codes\C_programme\DeepLearningC-master\CNN\CNN\main.cpp(12,15): error C2065: “matfp”: 未声明的标识符
+D:\Codes\C_programme\DeepLearningC-master\CNN\CNN\main.cpp(12,42): error C2065: “MAT_ACC_READ”: 未声明的标识符
+D:\Codes\C_programme\DeepLearningC-master\CNN\CNN\main.cpp(13,9): error C2065: “matfp”: 未声明的标识符
+D:\Codes\C_programme\DeepLearningC-master\CNN\CNN\main.cpp(18,40): error C2065: “matfp”: 未声明的标识符
+D:\Codes\C_programme\DeepLearningC-master\CNN\CNN\main.cpp(21,19): error C2065: “matfp”: 未声明的标识符
+D:\Codes\C_programme\DeepLearningC-master\CNN\CNN\main.cpp(32,19): error C2065: “matfp”: 未声明的标识符
+D:\Codes\C_programme\DeepLearningC-master\CNN\CNN\main.cpp(48,76): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Codes\C_programme\DeepLearningC-master\CNN\CNN\main.cpp(54,15): error C2065: “matfp”: 未声明的标识符
+D:\Codes\C_programme\DeepLearningC-master\CNN\CNN\main.cpp(61,5): error C2065: “Mat_File”: 未声明的标识符
+D:\Codes\C_programme\DeepLearningC-master\CNN\CNN\main.cpp(61,15): error C2065: “matfp”: 未声明的标识符
+D:\Codes\C_programme\DeepLearningC-master\CNN\CNN\main.cpp(61,42): error C2065: “MAT_ACC_READ”: 未声明的标识符
+D:\Codes\C_programme\DeepLearningC-master\CNN\CNN\main.cpp(62,9): error C2065: “matfp”: 未声明的标识符
+D:\Codes\C_programme\DeepLearningC-master\CNN\CNN\main.cpp(67,40): error C2065: “matfp”: 未声明的标识符
+D:\Codes\C_programme\DeepLearningC-master\CNN\CNN\main.cpp(70,19): error C2065: “matfp”: 未声明的标识符
+D:\Codes\C_programme\DeepLearningC-master\CNN\CNN\main.cpp(95,15): error C2065: “matfp”: 未声明的标识符
+  mat.cpp
+D:\Codes\C_programme\DeepLearningC-master\CNN\CNN\mat.cpp(173,5): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  minst.cpp
+D:\Codes\C_programme\DeepLearningC-master\CNN\CNN\minst.cpp(53,63): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Codes\C_programme\DeepLearningC-master\CNN\CNN\minst.cpp(17,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Codes\C_programme\DeepLearningC-master\CNN\CNN\minst.cpp(63,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Codes\C_programme\DeepLearningC-master\CNN\CNN\minst.cpp(138,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Codes\C_programme\DeepLearningC-master\CNN\CNN\minst.cpp(139,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Codes\C_programme\DeepLearningC-master\CNN\CNN\minst.cpp(148,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
