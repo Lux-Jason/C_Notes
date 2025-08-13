@@ -1,3 +1,0 @@
-﻿15000001 John 30  k5000001@uic.edu.cn
-15000009 Tony 20  k5000009@uic.edu.cn
-15000002 Jack 90  k5000002@uic.edu.cn
